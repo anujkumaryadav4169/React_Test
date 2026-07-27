@@ -6,10 +6,10 @@ const data = {
   tag: "Frontend Developer",
 
   shortBio:
-    "I am a passionate Frontend Developer who enjoys building responsive and user-friendly websites using React.",
+    "I am a passionate Frontend Develope.",
 
   fullBio:
-    "Hello! I'm Anuj Yadav, a Frontend Developer with a strong interest in React.js and modern web development. I enjoy creating responsive websites, learning new technologies, solving coding problems, and improving my development skills through projects and continuous practice.",
+    "Hello! I'm Anuj Yadav, a Frontend Developer with a strong interest in Programming and modern web development.",
 
   image: profile,
 
@@ -26,7 +26,7 @@ const data = {
 
     {
       title: "Tools",
-      items: ["Git", "GitHub", "VS Code", "Figma"]
+      items: ["Photoshop","Git", "GitHub", "VS Code", "Figma"]
     }
   ],
 
