@@ -1,5 +1,7 @@
+import "./Home.css";
 import { useNavigate } from "react-router-dom";
 import data from "../data/data";
+
 
 function Home() {
   const navigate = useNavigate();
@@ -7,9 +9,9 @@ function Home() {
   return (
     <div className="home">
 
-      <h1>Welcome</h1>
+      <h1>Hello</h1>
 
-      <h2>Hi, I am {data.name}</h2>
+      <h2>My name {data.name}</h2>
 
       <p>{data.shortBio}</p>
 

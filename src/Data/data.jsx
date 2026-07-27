@@ -1,7 +1,7 @@
-import profile from "../assets/hero.jpeg";
+import profile from "../assets/hero.png";
 
 const data = {
-  name: "Anuj Yadav",
+  name: "Anuj Kumar Yadav",
 
   tag: "Frontend Developer",
 
