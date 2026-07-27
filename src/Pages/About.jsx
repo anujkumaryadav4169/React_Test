@@ -7,15 +7,9 @@ import data from "../data/data";
 function About() {
   return (
     <>
-      <Navbar
-        name={data.name}
-        tag={data.tag}
-      />
-
+      <Navbar name={data.name} tag={data.tag} />
       <AbtHero bio={data.fullBio} />
-
       <SkillSection skills={data.skills} />
-
       <ProjectSection projects={data.projects} />
     </>
   );

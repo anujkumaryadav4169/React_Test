@@ -4,21 +4,14 @@ import "./Navbar.css";
 function Navbar({ name, tag }) {
   return (
     <nav className="navbar">
+      <div>{name}</div>
 
-      <div className="nav-left">
-        <h2>{name}</h2>
-      </div>
-
-      <div className="nav-center">
+      <div>
         <NavLink to="/about">About</NavLink>
-
         <NavLink to="/contact">Contact</NavLink>
       </div>
 
-      <div className="nav-right">
-        <p>{tag}</p>
-      </div>
-
+      <div>{tag}</div>
     </nav>
   );
 }
