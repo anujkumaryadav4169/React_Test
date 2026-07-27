@@ -1,4 +1,4 @@
-import profile from "../assets/hero.png";
+import profile from "../assets/hero.jpeg";
 
 const data = {
   name: "Anuj Yadav",
@@ -9,7 +9,7 @@ const data = {
     "I am a passionate Frontend Develope.",
 
   fullBio:
-    "Hello! I'm Anuj Yadav, a Frontend Developer with a strong interest in Programming and modern web development.",
+    "Hello! My Name is Anuj Kumar Yadav, a Frontend Developer with a strong interest in Programming and modern web development.",
 
   image: profile,
 
